@@ -5,7 +5,7 @@ public class Tasks {
         task2();
         task3();
         task4();
-        System.out.println("Задания выполнены.");
+        System.out.println("\nЗадания выполнены.");
     }
 
     private static void task4() {
